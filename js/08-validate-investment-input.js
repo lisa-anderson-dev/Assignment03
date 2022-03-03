@@ -17,9 +17,6 @@ while (!valid) {
     }
 }
 
-
-
-
 // PERFORM CALCULATIONS
 futureValue = investment;
 for (let i = 0; i < years; i++) {
